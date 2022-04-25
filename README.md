@@ -1,6 +1,5 @@
 # Rails Project
 
-# Class diagram for Catalog of my things
 > General information
 This is a Ruby Rails project, still at the initail stage. 
 
